@@ -1,0 +1,1 @@
+/srv/tftp/get_hostname.sh
